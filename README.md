@@ -26,7 +26,7 @@ Then I use PgSettings in `plugins/postgraphile.js` to define the role and user_i
 
 ## Usage
 
-You can clone this repo and run:
+After cloning this repo, make sure you add the necessary environment variables in `.env`, then:
 
 ```
 npm i
